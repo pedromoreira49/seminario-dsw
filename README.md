@@ -1,7 +1,7 @@
 # React + Vite + Typescript
 
 * Criação do projeto
-* Componentes
+* [Componentes](#componentes)
 * Propriedades
 * Estado
 * Estilização
