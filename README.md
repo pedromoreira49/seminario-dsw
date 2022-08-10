@@ -1,11 +1,11 @@
 # React + Vite + Typescript
 
-* Criação do projeto
+* [Criação do projeto](#criando-projeto)
 * [Componentes](#componentes)
-* Propriedades
-* Estado
-* Estilização
-* Roteamento
+* [Propriedades](#propriedades)
+* [Estado](#estados)
+* [Estilização](#estilização)
+* [Roteamento](#roteamento)
 
 ---
 # O que é o React?
